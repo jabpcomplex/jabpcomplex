@@ -6,35 +6,33 @@
 
 <h2 align="center">Welcome to my github! 
  <a href="https://github.com/jabpcomplex">
- <img src="<h2 align="center">Fancy seeing you here! 
+ <img src="<h2 align="center">
  <a href="https://github.com/thecodexhub"> 👋
 </h2>
 
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+github)](https://git.io/typing-svg)
- </a>
-</p>
 
-[![Visitor count](https://komarev.com/ghpvc/?username=thecodexhub&label=Views&color=blue&style=plastic)](https://github.com/thecodexhub)
+
+[![Visitor count](https://komarev.com/ghpvc/?username=jabpcomplex&label=Views&color=blue&style=plastic)](https://github.com/jabpcomplex)
+
+[![Github Follow](https://img.shields.io/github/followers/jabpcomplex?label=follow&style=social)](https://github.com/thecodexhub)
+<!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://twitter.com/thecodexhub)
-[![Github Follow](https://img.shields.io/github/followers/thecodexhub?label=follow&style=social)](https://github.com/thecodexhub)
-<!-- [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9q3zgQaK4JyrqPCCNvd_yg?style=social)](https://www.youtube.com/channel/UC9q3zgQaK4JyrqPCCNvd_yg) -->
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9q3zgQaK4JyrqPCCNvd_yg?style=social)](https://www.youtube.com/channel/UC9q3zgQaK4JyrqPCCNvd_yg) -->
 
-## 😎 About me
+About me
 
-I am Sandip Pramanik, currently pursuing my bachelor's degree in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a Tech Enthusiast & Flutter Developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. 
+I am Sandip Pramanik, currently pursuing my Master's Degree  in Complexity Sciencies from [UACM](https://www.uacm.edu.mx/). I am a Tech Enthusiast and always open to collaborating on projects and innovative/disruptive ideas. 
 
-- 🔭 I’m currently working on [Flutter](https://flutter.dev/) and [Firebase](https://firebase.google.com/).
-- 🌱 I’m currently learning [Ethereum](https://ethereum.org/en/) and [Solidity](https://docs.soliditylang.org/).
-- 👯 I’m creating Flutter content on [Instagram](https://www.instagram.com/thecodexhub/), [Twitter](https://twitter.com/thecodexhub/) and [Medium](https://medium.com/@thecodexhubofficial/).
-- 🤔 I’m looking for help with the ideas of backend development and microservices.
-- 💬 Ask me about any Flutter related stuffs.
-- 😄 Pronouns: He/His/Him
+- I’m currently working on research assistant in Conacyt.
+- I’m currently learning backend development.
+- I’m creating Flutter content on [Instagram](https://www.instagram.com/scientia_complexus/).
 
 ## 🔥 Streak stats
 
 <p align="center">
- <a href="https://github.com/thecodexhub"><img src="http://github-readme-streak-stats.herokuapp.com?user=thecodexhub&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"></a>
+ <a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=github-light&date_format=M%20j%5B%2C%20Y%5D"></a>
  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
@@ -43,16 +41,16 @@ I am Sandip Pramanik, currently pursuing my bachelor's degree in Electrical Engi
 ### 👨‍💻 Programming languages
 
 <p>
-<a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+
 <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+                                                                                                                            
+<!-- <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+<a href="#"><imgalt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+-->
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -66,13 +64,14 @@ I am Sandip Pramanik, currently pursuing my bachelor's degree in Electrical Engi
 </p>
 
 ### 💻 Databases and others
-
+<!--
 <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCB2B.svg?logo=firebase&logoColor=black"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-<a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    -->                                                                                                                       
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
