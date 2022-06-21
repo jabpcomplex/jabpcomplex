@@ -5,17 +5,11 @@
 -->
 
 <h2 align="center">Welcome to my github! 
- <a href="https://github.com/jabpcomplex">
- <img src="<h2 align="center">
- <a href="https://github.com/thecodexhub"> 👋
+ <a href="https://github.com/jabpcomplex"> 👋
 </h2>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+github)](https://git.io/typing-svg)
-
-
 [![Visitor count](https://komarev.com/ghpvc/?username=jabpcomplex&label=Views&color=blue&style=plastic)](https://github.com/jabpcomplex)
-
 [![Github Follow](https://img.shields.io/github/followers/jabpcomplex?label=follow&style=social)](https://github.com/thecodexhub)
 <!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://twitter.com/thecodexhub)
@@ -47,7 +41,7 @@ I am Sandip Pramanik, currently pursuing my Master's Degree  in Complexity Scien
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="#"><img alt="Python" src="https://custom-icon-badges.herokuapp.com/badge/custom-badge-blue.svg?logo=python-#1complex&logoColor=white"></a>
-<a href="#"><img alt="R" src="https://custom-icon-badges.herokuapp.com/badge/custom-badge-blue.svg?logo=r-#2complex&logoColor=white"></a>                                                                                                                   
+<a href="#"><img alt="R" src="https://custom-icon-badges.herokuapp.com/badge/custom-badge-blue.svg?logo=R-#2complex&logoColor=white"></a>                                                                                                               
 <!-- <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 <a href="#"><imgalt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
