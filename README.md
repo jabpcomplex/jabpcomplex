@@ -4,15 +4,16 @@
 
 <h2 align="center">Welcome to my github! 
  <a href="https://github.com/jabpcomplex"> 👋
-</h2>
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020607&lines=Science+is+not+perfect%2C+it+is+often+misused%2C+it+is+just+a+tool%2C+but+it+is+the+best+tool+we+have.)](https://git.io/typing-svg)
 
- [![Visitor count](https://komarev.com/ghpvc/?username=jabpcomplex&label=Views&color=blue&style=plastic)](https://github.com/jabpcomplex)
+[![Visitor count](https://komarev.com/ghpvc/?username=jabpcomplex&label=Views&color=blue&style=plastic)](https://github.com/jabpcomplex)
+[![Github Follow](https://img.shields.io/github/followers/jabpcomplex?label=follow&style=social)](https://github.com/jabpcomplex)
 
- [![Github Follow](https://img.shields.io/github/followers/jabpcomplex?label=follow&style=social)](https://github.com/jabpcomplex)
 <!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://twitter.com/thecodexhub)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9q3zgQaK4JyrqPCCNvd_yg?style=social)](https://www.youtube.com/channel/UC9q3zgQaK4JyrqPCCNvd_yg) -->
+  </h2>
 
 ## About me
 
@@ -39,8 +40,8 @@ I am Julio Alberto Bautista, currently pursuing my Master's Degree  in Complexit
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Java-007396.svg?logo=python&logoColor=white"></a>
- <a href="#"><img alt="R" src="https://img.shields.io/badge/Java-007396.svg?logo=R&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-007396.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="R" src="https://img.shields.io/badge/R-007396.svg?logo=R&logoColor=white"></a>
 <!-- <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 <a href="#"><imgalt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
