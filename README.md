@@ -5,12 +5,14 @@
 # Welcome to my Github 👋      
 
 <!--
-[![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://twitter.com/thecodexhub)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9q3zgQaK4JyrqPCCNvd_yg?style=social)](https://www.youtube.com/channel/UC9q3zgQaK4JyrqPCCNvd_yg) -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://twitter.com/jabpcomplex)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/) -->
 
 ## About me
 
-I am Julio Alberto Bautista, currently pursuing my Master's Degree  in Complexity Sciencies from [UACM](https://www.uacm.edu.mx/). I am a Tech Enthusiast and always open to collaborating on projects and innovative/disruptive ideas. 
+My goal is to continue developing professionally in Data Science, contribute and implement new ideas and contribute to the benefit of society from this sector. The main skills I have developed are: handling of data structures, creation of histograms, handling of georeferenced data, manipulation and visualization of time series, using the programming languages Python and R. I also have skills in web development and I have a blog which can be found at [Science and Society](https://jabpcomplex.github.io/blog/) where I share my knowledge.
+
+Las principales habilidades que he desarrollado son: manejo de estructuras de datos, creación de histogramas, manejo de datos georreferenciados, manipulación y visualización de series de tiempo, utilizando los lenguajes de programación Python y R. Además cuento habilidades en desarrollo web y tengo un blog personal que se puede consultar en \href{https://jabpcomplex.github.io/blog/}{\underline{``Ciencia y Sociedad''}} donde comparto mis conocimientos.
 
 - I’m currently working on research assistant in Conacyt.
 - I’m currently learning backend development.
