@@ -15,7 +15,7 @@ My goal is to continue developing professionally in Data Science, contribute and
 
 - I’m currently working on research assistant in Conacyt.
 - I’m currently learning backend development.
-- I’m creating Flutter content on [Instagram](https://www.instagram.com/scientia_complexus/).
+- I’m creating content on [Instagram](https://www.instagram.com/scientia_complexus/).
 
 ## 🔥 Streak stats
 
