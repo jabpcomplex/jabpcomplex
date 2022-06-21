@@ -2,9 +2,8 @@
 **jabpcomplex/jabpcomplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+# Welcome to my Github 👋  
 <h2 align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=040F14&lines=Welcome+to+my+Github)](https://git.io/typing-svg)  👋
-  
 [![Visitor count](https://komarev.com/ghpvc/?username=jabpcomplex&label=Views&color=blue&style=plastic)](https://github.com/jabpcomplex)
 [![Github Follow](https://img.shields.io/github/followers/jabpcomplex?label=follow&style=social)](https://github.com/jabpcomplex)
 
@@ -46,8 +45,9 @@ I am Julio Alberto Bautista, currently pursuing my Master's Degree  in Complexit
 -->
 </p>
 
-### 🧰 Frameworks and libraries
 
+<!--
+### 🧰 Frameworks and libraries
 <p>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
@@ -55,7 +55,7 @@ I am Julio Alberto Bautista, currently pursuing my Master's Degree  in Complexit
 <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-ff0044.svg?logo=nestjs&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
-
+-->
 ### 💻 Databases and others
 <!--
 <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCB2B.svg?logo=firebase&logoColor=black"></a>
@@ -84,7 +84,9 @@ Find out more about me & feel free to connect with me here 👇
 <!--[![Linkedin Badge](https://img.shields.io/badge/-Sandip%20Pramanik-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)](https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)
 [![Twitter Badge](https://img.shields.io/badge/-thecodexhub-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)-->
 [![Gmail Badge](https://img.shields.io/badge/-julioacustico10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julioacustico10@gmail.com)](mailto:julioacustico10@gmail.com)
-
-<pre align="center">L E T S  G R O W  T O G E T H E R ! 💪 width="30px" height="30px"></pre> 
  </a>
 </h2>
+<h2 align="center">
+  L E T S  G R O W  T O G E T H E R !
+  </h2>
+  
