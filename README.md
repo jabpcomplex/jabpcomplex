@@ -2,11 +2,9 @@
 **jabpcomplex/jabpcomplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h2 align="center">Welcome to my github! 
- <a href="https://github.com/jabpcomplex"> 👋
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020607&lines=Science+is+not+perfect%2C+it+is+often+misused%2C+it+is+just+a+tool%2C+but+it+is+the+best+tool+we+have.)](https://git.io/typing-svg)
-
+<h2 align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=040F14&lines=Welcome+to+my+Github)](https://git.io/typing-svg)  👋
+  
 [![Visitor count](https://komarev.com/ghpvc/?username=jabpcomplex&label=Views&color=blue&style=plastic)](https://github.com/jabpcomplex)
 [![Github Follow](https://img.shields.io/github/followers/jabpcomplex?label=follow&style=social)](https://github.com/jabpcomplex)
 
@@ -87,6 +85,6 @@ Find out more about me & feel free to connect with me here 👇
 [![Twitter Badge](https://img.shields.io/badge/-thecodexhub-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)-->
 [![Gmail Badge](https://img.shields.io/badge/-julioacustico10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julioacustico10@gmail.com)](mailto:julioacustico10@gmail.com)
 
-<pre align="center">L E T S  G R O W  T O G E T H E R ! 💪</pre>" width="30px" height="30px">
+<pre align="center">L E T S  G R O W  T O G E T H E R ! 💪 width="30px" height="30px"></pre> 
  </a>
 </h2>
