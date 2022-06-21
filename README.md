@@ -4,18 +4,14 @@
 
 # Welcome to my Github 👋  
 
-<h2 align="center">
   
 [![Visitor count](https://komarev.com/ghpvc/?username=jabpcomplex&label=Views&color=blue&style=plastic)](https://github.com/jabpcomplex)
 [![Github Follow](https://img.shields.io/github/followers/jabpcomplex?label=follow&style=social)](https://github.com/jabpcomplex)
-[![Github Forks](https://img.shields.io/github/forks/jabpcomplex?label=fork&style=social)](https://github.com/jabpcomplex)
-[![Github Repo starts](https://img.shields.io/github/starts/jabpcomplex?label=repo&style=social)](https://github.com/jabpcomplex)
-
-
+[![Github Forks](https://img.shields.io/github/forks/jabpcomplex?label=forks&style=social)](https://github.com/jabpcomplex)
+[![Github Repo starts](https://img.shields.io/github/starts/jabpcomplex?label=starts&style=social)](https://github.com/jabpcomplex)
 <!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://twitter.com/thecodexhub)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9q3zgQaK4JyrqPCCNvd_yg?style=social)](https://www.youtube.com/channel/UC9q3zgQaK4JyrqPCCNvd_yg) -->
-  </h2>
 
 ## About me
 
