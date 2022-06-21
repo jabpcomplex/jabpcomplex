@@ -2,13 +2,8 @@
 **jabpcomplex/jabpcomplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Welcome to my Github 👋  
+# Welcome to my Github 👋      
 
-  
-[![Visitor count](https://komarev.com/ghpvc/?username=jabpcomplex&label=Views&color=blue&style=plastic)](https://github.com/jabpcomplex)
-[![Github Follow](https://img.shields.io/github/followers/jabpcomplex?label=follow&style=social)](https://github.com/jabpcomplex)
-[![Github Forks](https://img.shields.io/github/forks/jabpcomplex?label=forks&style=social)](https://github.com/jabpcomplex)
-[![Github Repo starts](https://img.shields.io/github/starts/jabpcomplex?label=starts&style=social)](https://github.com/jabpcomplex)
 <!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://twitter.com/thecodexhub)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9q3zgQaK4JyrqPCCNvd_yg?style=social)](https://www.youtube.com/channel/UC9q3zgQaK4JyrqPCCNvd_yg) -->
@@ -25,7 +20,7 @@ I am Julio Alberto Bautista, currently pursuing my Master's Degree  in Complexit
 
 <p align="center">
  <a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=github-light&date_format=M%20j%5B%2C%20Y%5D"></a>
- <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+ <p align="center"> Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 ## 🛠️ Languages and tools
@@ -71,7 +66,7 @@ I am Julio Alberto Bautista, currently pursuing my Master's Degree  in Complexit
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
 ## 📊 Github stats
-https://github-readme-stats.vercel.app/api?username=jabpcomplex
+
 <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jabpcomplex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jabpcomplex&count_private=true&show_icons=true&theme=dracula" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="thecodexhub's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabpcomplex&langs_count=8&theme=dracula&layout=compact" height="192px"/></a>
@@ -88,6 +83,6 @@ Find out more about me & feel free to connect with me here 👇
  </a>
 </h2>
 <h2 align="center">
-  L E T S  G R O W  T O G E T H E R !
+  <p>  L E T S  G R O W  T O G E T H E R ! </p>
   </h2>
   
