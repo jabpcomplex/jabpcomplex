@@ -3,9 +3,13 @@
 -->
 
 # Welcome to my Github 👋  
+
 <h2 align="center">
 [![Visitor count](https://komarev.com/ghpvc/?username=jabpcomplex&label=Views&color=blue&style=plastic)](https://github.com/jabpcomplex)
 [![Github Follow](https://img.shields.io/github/followers/jabpcomplex?label=follow&style=social)](https://github.com/jabpcomplex)
+[![Github Forks](https://img.shields.io/github/forks/jabpcomplex?label=fork&style=social)](https://github.com/jabpcomplex)
+[![Github Repo starts](https://img.shields.io/github/starts/jabpcomplex?label=repo&style=social)](https://github.com/jabpcomplex)
+
 
 <!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://twitter.com/thecodexhub)
