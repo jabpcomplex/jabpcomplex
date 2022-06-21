@@ -6,8 +6,10 @@
  <a href="https://github.com/jabpcomplex"> 👋
 </h2>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020607&lines=Science+is+not+perfect%2C+it+is+often+misused%2C+it+is+just+a+tool%2C+but+it+is+the+best+tool+we+have.)](https://git.io/typing-svg)
-[![Visitor count](https://komarev.com/ghpvc/?username=jabpcomplex&label=Views&color=blue&style=plastic)](https://github.com/jabpcomplex)
-[![Github Follow](https://img.shields.io/github/followers/jabpcomplex?label=follow&style=social)](https://github.com/thecodexhub)
+
+ [![Visitor count](https://komarev.com/ghpvc/?username=jabpcomplex&label=Views&color=blue&style=plastic)](https://github.com/jabpcomplex)
+
+ [![Github Follow](https://img.shields.io/github/followers/jabpcomplex?label=follow&style=social)](https://github.com/jabpcomplex)
 <!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://twitter.com/thecodexhub)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9q3zgQaK4JyrqPCCNvd_yg?style=social)](https://www.youtube.com/channel/UC9q3zgQaK4JyrqPCCNvd_yg) -->
