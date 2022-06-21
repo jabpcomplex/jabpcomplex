@@ -1,5 +1,3 @@
-### Hi there 
-
 <!--
 **jabpcomplex/jabpcomplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -7,8 +5,7 @@
 <h2 align="center">Welcome to my github! 
  <a href="https://github.com/jabpcomplex"> 👋
 </h2>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020607&lines=Science+is+not+perfect%2C+it+is+often+misused%2C+it+is+just+a+tool%2C+but+it+is+the+best+tool+we+have.)](https://git.io/typing-svg)
 [![Visitor count](https://komarev.com/ghpvc/?username=jabpcomplex&label=Views&color=blue&style=plastic)](https://github.com/jabpcomplex)
 [![Github Follow](https://img.shields.io/github/followers/jabpcomplex?label=follow&style=social)](https://github.com/thecodexhub)
 <!--
@@ -17,7 +14,7 @@
 
 ## About me
 
-I am Sandip Pramanik, currently pursuing my Master's Degree  in Complexity Sciencies from [UACM](https://www.uacm.edu.mx/). I am a Tech Enthusiast and always open to collaborating on projects and innovative/disruptive ideas. 
+I am Julio Alberto Bautista, currently pursuing my Master's Degree  in Complexity Sciencies from [UACM](https://www.uacm.edu.mx/). I am a Tech Enthusiast and always open to collaborating on projects and innovative/disruptive ideas. 
 
 - I’m currently working on research assistant in Conacyt.
 - I’m currently learning backend development.
