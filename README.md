@@ -10,9 +10,6 @@
 
 ## About me
 
-My goal is to continue developing professionally in Data Science, contribute and implement new ideas and contribute to the benefit of society from this sector. The main skills I have developed are: handling of data structures, creation of histograms, handling of georeferenced data, manipulation and visualization of time series, using the programming languages Python and R. I also have skills in web development and I have a blog which can be found at [Science and Society](https://jabpcomplex.github.io/blog/) where I share my knowledge.
-
-
 - I’m currently working on research assistant in Conacyt.
 - I’m currently learning backend development.
 - I’m creating content on [Instagram](https://www.instagram.com/scientia_complexus/).
