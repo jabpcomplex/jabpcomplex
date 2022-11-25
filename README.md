@@ -12,7 +12,8 @@
 
 - I’m currently working on research assistant in Conacyt.
 - I’m currently learning backend development.
-- I’m creating content on [Instagram](https://www.instagram.com/scientia_complexus/).
+- Data scientists in proccess ... 📊
+- I’m creating content on [Instagram](https://www.instagram.com/gnu_linux_community/).
 
 ## 🔥 Streak stats
 
