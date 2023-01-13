@@ -72,7 +72,7 @@
 <br/>
 <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jabpcomplex=anuraghazra&show_icons=true&theme=radical)
 
 ## 💬 How to reach me
 
