@@ -5,11 +5,7 @@
 
 
  <center>
-
-![](image.png)
-
 [![Web|100](./jabpcomplex-ico.png)](https://github.com/jabpcomplex)
-
 </center>
 
 # Welcome to my Github 👋      
