@@ -1,14 +1,11 @@
 <!--
 **jabpcomplex/jabpcomplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Web|100](./jabpcomplex-ico.png)](https://github.com/jabpcomplex)
+
 -->
 
 <center>
-
-![](./jabpcomplex-ico.png)
-
-[icono](https://github.com/jabpcomplex)
-
+ ![](./jabpcomplex-ico.png)
+ [icono](https://github.com/jabpcomplex)
 </center>
 
 # Welcome to my Github 👋      
