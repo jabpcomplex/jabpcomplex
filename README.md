@@ -15,10 +15,10 @@
 
 ## About me
 
-- I’m currently working on research assistant in Conacyt.
-- I’m currently learning backend development.
+- I’m currently working on research assistant in Conacyt and i'm a student of the master's degree in complexity sciences.
+- I'm learning web development for fun 💻
 - Data scientist in proccess ... 📊
-- I’m creating content on [Instagram](https://www.instagram.com/gnu_linux_community/) GNU/Linux and more.
+- I like to share what I learn, i’m creating content on [Instagram](https://www.instagram.com/gnu_linux_community/) GNU/Linux and more.
 
 ## 🔥 Streak stats
 
