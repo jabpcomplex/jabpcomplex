@@ -21,27 +21,24 @@
 
 ## 🔥 Streak stats
 
-<a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
-</a>
-
 <p align="center">
  <a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=github-light&date_format=M%20j%5B%2C%20Y%5D"></a>
  <!-- <p align="center"> Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
 </p>
 
-## 🛠️ Languages and tools
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" /></p>
+<a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
+</a>
 
 ## 👨‍💻 Programming languages
 
-<p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" /></p>
 
+<p>
 <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-007396.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="R" src="https://img.shields.io/badge/R-007396.svg?logo=R&logoColor=white"></a>
 <!-- <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
