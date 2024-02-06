@@ -26,6 +26,7 @@
  <!-- <p align="center"> Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
 </p>
 
+### 👨‍💻 📊 Recent projects
 <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
 </a>
