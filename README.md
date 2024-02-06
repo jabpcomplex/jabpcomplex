@@ -20,9 +20,9 @@
 - I like to share what I learn, i’m creating content on [Instagram](https://www.instagram.com/gnu_linux_community/) GNU/Linux and more.
 
 ## 🔥 Streak stats
+
 <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
-  <!-- Cambia `github-readme-stats.anuraghazra1.vercel.app` por `github-readme-stats.vercel.app` -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
 </a>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 ## 🛠️ Languages and tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" /></p>
 
 ## 👨‍💻 Programming languages
 
