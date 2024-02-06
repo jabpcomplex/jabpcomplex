@@ -21,6 +21,7 @@
 - I like to share what I learn, i’m creating content on [Instagram](https://www.instagram.com/gnu_linux_community/) GNU/Linux and more.
 
 ## 🔥 Streak stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" /></p>
 
 <p align="center">
  <a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=github-light&date_format=M%20j%5B%2C%20Y%5D"></a>
