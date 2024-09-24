@@ -14,9 +14,8 @@
 
 ## About me
 
-- I’m student of the master's degree in complexity sciences and geographic data analyst at C5
+- I’m student of the master's degree in complexity sciences and geographic data analyst at C5 📊
 - i'm learning web development for fun 💻
-- ever growing data scientist ... 📊
 - i like to share what I learn, i’m creating content on [Instagram](https://www.instagram.com/jabpcomplex/) GNU/Linux and more.
 
 ## 🔥 Streak stats
