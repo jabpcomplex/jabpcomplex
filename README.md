@@ -1,16 +1,17 @@
 <!--
 **jabpcomplex/jabpcomplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+-->
 
 [![Web|100](./jabpcomplex-ico.png)](https://github.com/jabpcomplex)
--->
+
 
 
 # Welcome to my Github 👋      
-<!--
-[![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://twitter.com/jabpcomplex)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/) -->
+
+[![Instagram Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://www.instagram.com/jabpcomplex/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://X.com/jabpcomplex)
+[![YouTube Subscribers]([https://img.shields.io/youtube/channel/](https://www.youtube.com/@scientiacomplexus5441)) 
 
 ## About me
 
