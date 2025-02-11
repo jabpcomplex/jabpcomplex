@@ -9,9 +9,9 @@
 
 # Welcome to my Github 👋      
 
-[![Instagram Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://www.instagram.com/jabpcomplex/)
+[![Instagram Follow](https://img.shields.io/instagram/follow/thecodexhub?style=social)](https://www.instagram.com/jabpcomplex/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://X.com/jabpcomplex)
-[![YouTube Subscribers]([https://img.shields.io/youtube/channel/](https://www.youtube.com/@scientiacomplexus5441)) 
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/)](https://www.youtube.com/@scientiacomplexus5441)
 
 ## About me
 
