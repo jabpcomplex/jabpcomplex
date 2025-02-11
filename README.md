@@ -9,9 +9,11 @@
 
 # Welcome to my Github 👋      
 
-[![Instagram Follow](https://img.shields.io/instagram/follow/jabpcomplex?style=social)](https://www.instagram.com/jabpcomplex/)
+<!--[![Instagram Follow](https://img.shields.io/instagram/follow/jabpcomplex?style=social)](https://www.instagram.com/jabpcomplex/)
+[![YouTube Subscribers](https://img.shields.io/youtube/follow/jabpcomplex?style=social)](https://www.youtube.com/@scientiacomplexus5441)
+-->
 [![Twitter Follow](https://img.shields.io/twitter/follow/jabpcomplex?style=social)](https://X.com/jabpcomplex)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/follow/jabpcomplex?style=social)](https://www.youtube.com/@scientiacomplexus5441)
+
 
 ## About me
 
