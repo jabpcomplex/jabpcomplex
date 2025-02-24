@@ -94,7 +94,7 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 
 <!-- COMENTARIO
 [![Twitter Badge](https://img.shields.io/badge/-thecodexhub-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)-->
-[![Linkedin Badge]([https://www.linkedin.com/in/julio-alberto-bautista-9317b2231/](https://www.linkedin.com/in/julio-alberto-bautista-9317b2231/)
+
 
 [![Gmail Badge](https://img.shields.io/badge/-julioacustico10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julioacustico10@gmail.com)](mailto:julioacustico10@gmail.com)
 
