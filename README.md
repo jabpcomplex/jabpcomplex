@@ -7,7 +7,7 @@
 
 
 
-# Welcome to my Github 👋      
+# Bienvenido, saludos 👋      
 
 <!--[![Instagram Follow](https://img.shields.io/instagram/follow/jabpcomplex?style=social)](https://www.instagram.com/jabpcomplex/)
 [![YouTube Subscribers](https://img.shields.io/youtube/follow/jabpcomplex?style=social)](https://www.youtube.com/@scientiacomplexus5441)
@@ -15,12 +15,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jabpcomplex?style=social)](https://X.com/jabpcomplex)
 
 
-## About me
+## ¿Quién soy?
+👋 ¡Hola! Soy [Tu Nombre], alguien que encuentra fascinante el mundo de los datos y disfruta descubrir cómo pueden transformarse en soluciones creativas para problemas complejos.
 
-- I’m student of the master's degree in complexity sciences and geographic data analyst at C5 📊
-- i'm learning web development for fun 💻
-- i like to share what I learn, i’m creating content on [Instagram](https://www.instagram.com/jabpcomplex/) GNU/Linux and more.
-
+🔍 He dedicado parte de mi tiempo a explorar y construir modelos matemáticos que ayudan a entender mejor ciertos fenómenos, especialmente aquellos relacionados con la seguridad y la vida en la ciudad.
 ## 🔥 Streak stats
 
 <p align="center">
@@ -28,12 +26,12 @@
  <!-- <p align="center"> Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
 </p>
 
-### 👨‍💻 📊 Recent projects
+### 👨‍💻 Proyectos 📊 
 <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
 </a>
 
-## 👨‍💻 Programming languages
+## 👨‍💻 Mis herramientas de trabajo
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" /></p>
 
@@ -74,9 +72,9 @@
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
-## 💬 How to reach me
+## 💬 Conecta conmigo
 
-Find out more about me & feel free to connect with me here 👇
+🤝 Si te interesa colaborar en proyectos relacionados con análisis de datos, machine learning, o simplemente quieres conectar, ¡no dudes en contactarme! Estoy siempre abierto a nuevas ideas y oportunidades. 👇
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-Sandip%20Pramanik-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)](https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)
 [![Twitter Badge](https://img.shields.io/badge/-thecodexhub-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)-->
@@ -84,6 +82,6 @@ Find out more about me & feel free to connect with me here 👇
  </a>
 </h2>
 <h2 align="center">
-  <p>  L E T S  G R O W  T O G E T H E R ! </p>
+  <p>  . ! </p>
   </h2>
   
