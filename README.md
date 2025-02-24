@@ -5,26 +5,22 @@
 
 [![Web|100](./jabpcomplex-ico.png)](https://github.com/jabpcomplex)
 
-
-
-# Saludos 👋      
-
 <!-- COMENTARIO
 [![Instagram Follow](https://img.shields.io/instagram/follow/jabpcomplex?style=social)](https://www.instagram.com/jabpcomplex/)
 [![YouTube Subscribers](https://img.shields.io/youtube/follow/jabpcomplex?style=social)](https://www.youtube.com/@scientiacomplexus5441)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jabpcomplex?style=social)](https://X.com/jabpcomplex)
 -->
 
-
-
-## ¿Quién soy?
+# Saludos
 
 👋 Soy alguien que encuentra fascinante el mundo de los datos y disfruta descubrir cómo pueden transformarse en soluciones creativas para problemas complejos.
 
 🔍 He dedicado parte de mi tiempo a explorar y construir modelos matemáticos con software libre, que ayudan a entender mejor ciertos fenómenos, especialmente aquellos relacionados con seguridad pública e incidencia delictiva.
 
 Por lo tanto, soy un sistema complejo que estudia la complejidad del universo con software libre.
-
+<h2 align="center">
+  <p> Incidencia Delictiva en CDMX (2025) </p>
+  </h2>
 [![Web|100](./Raster_incidenciacdmx.gif)](https://github.com/jabpcomplex)
 <!-- COMENTARIO
 <p align="center">
@@ -33,7 +29,7 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 -->
 
 
-## 🔥 Streak stats
+# 🔥 Streak stats
 
 <p align="center">
  <a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=github-light&date_format=M%20j%5B%2C%20Y%5D"></a>
@@ -42,12 +38,12 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
  -->
 </p>
 
-### 👨‍💻 Proyectos 📊 
+# 📊  Proyectos Recientes
 <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
 </a>
 
-## 👨‍💻 Mis herramientas de trabajo
+# 👨‍💻 Mis herramientas de trabajo
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" /></p>
 
@@ -66,7 +62,7 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 
 
 <!--
-### 🧰 Frameworks and libraries
+## 🧰 Frameworks and libraries
 <p>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
@@ -75,7 +71,7 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 -->
-### 💻 Databases and others
+## 💻 Databases and others
 <!--
 <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCB2B.svg?logo=firebase&logoColor=black"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
@@ -88,7 +84,8 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
-## 💬 Conecta conmigo
+
+# 💬 Conecta conmigo
 
 🤝 Si te interesa colaborar en proyectos relacionados con análisis de datos, machine learning, o simplemente quieres conectar, ¡no dudes en contactarme! Estoy siempre abierto a nuevas ideas y oportunidades. 👇
 
@@ -98,7 +95,5 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 
 </a>
 </h2>
-<h2 align="center">
-  <p>  . </p>
-  </h2>
+
   
