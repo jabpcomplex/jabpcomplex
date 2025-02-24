@@ -48,8 +48,7 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
  -->
     <div>
      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" /></p>
-       ![jabpcomplex's github stats](https://github-readme-stats.vercel.app/api?username=jabpcomplex&theme=vue&show_icons=true)
-
+     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jabpcomplex&theme=vue&show_icons=true" alt="jabpcomplex guthub stats" /></p> 
   </div>
 </p>
 
