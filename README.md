@@ -14,10 +14,11 @@
 # 👋 Saludos
 
 Soy alguien que encuentra fascinante el mundo de los datos y disfruta descubrir cómo pueden transformarse en soluciones creativas para problemas complejos.
+
 He dedicado parte de mi tiempo a explorar y construir modelos matemáticos con software libre, que ayudan a entender mejor ciertos fenómenos, especialmente aquellos relacionados con seguridad pública e incidencia delictiva.
+
 Por lo tanto, soy un sistema complejo que estudia la complejidad del universo con software libre.
 
-Además me gusta compartir mi conocimiento en https://www.instagram.com/jabpcomplex/
 
 <h2 align="center">
   <p> Incidencia Delictiva en CDMX (2025) </p>
