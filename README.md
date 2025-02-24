@@ -48,7 +48,8 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
  -->
     <div>
      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" /></p>
-       
+       ![jabpcomplex's github stats](https://github-readme-stats.vercel.app/api?username=jabpcomplex&theme=vue&show_icons=true)
+
   </div>
 </p>
 
@@ -100,17 +101,6 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 <!-- COMENTARIO
 [![Twitter Badge](https://img.shields.io/badge/-thecodexhub-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)-->
 [![Gmail Badge](https://img.shields.io/badge/-julioacustico10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julioacustico10@gmail.com)](mailto:julioacustico10@gmail.com)
-
-![jabpcomplex's github stats](https://github-readme-stats.vercel.app/api?username=jabpcomplex&theme=vue&show_icons=true)
-
-<div align="center" >
-<a  href="https://github.com/jabpcomplex">
-
-<img src="https://raw.githubusercontent.com/jabpcomplex/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/jabpcomplex/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/jabpcomplex/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
 
 <!-- Enlaces a redes sociales -->
 <div align="center" style="margin-top: 20px;">
