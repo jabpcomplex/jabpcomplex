@@ -11,13 +11,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jabpcomplex?style=social)](https://X.com/jabpcomplex)
 -->
 
-# Saludos
+# 👋 Saludos
 
-👋 Soy alguien que encuentra fascinante el mundo de los datos y disfruta descubrir cómo pueden transformarse en soluciones creativas para problemas complejos.
-
-🔍 He dedicado parte de mi tiempo a explorar y construir modelos matemáticos con software libre, que ayudan a entender mejor ciertos fenómenos, especialmente aquellos relacionados con seguridad pública e incidencia delictiva.
-
+Soy alguien que encuentra fascinante el mundo de los datos y disfruta descubrir cómo pueden transformarse en soluciones creativas para problemas complejos.
+He dedicado parte de mi tiempo a explorar y construir modelos matemáticos con software libre, que ayudan a entender mejor ciertos fenómenos, especialmente aquellos relacionados con seguridad pública e incidencia delictiva.
 Por lo tanto, soy un sistema complejo que estudia la complejidad del universo con software libre.
+
+Además me gusta compartir mi conocimiento en https://www.instagram.com/jabpcomplex/
+
 <h2 align="center">
   <p> Incidencia Delictiva en CDMX (2025) </p>
 </h2>
@@ -91,8 +92,9 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 
 🤝 Si te interesa colaborar en proyectos relacionados con análisis de datos, machine learning, o simplemente quieres conectar, ¡no dudes en contactarme! Estoy siempre abierto a nuevas ideas y oportunidades. 👇
 
-<!--[![Linkedin Badge](https://img.shields.io/badge/-Sandip%20Pramanik-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)](https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)
+<!-- COMENTARIO
 [![Twitter Badge](https://img.shields.io/badge/-thecodexhub-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)-->
+[![Linkedin Badge](https://img.shields.io/badge/-julioacustico10@gmail.com-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)](https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)
 [![Gmail Badge](https://img.shields.io/badge/-julioacustico10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julioacustico10@gmail.com)](mailto:julioacustico10@gmail.com)
 
 </a>
