@@ -101,6 +101,14 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 [![Twitter Badge](https://img.shields.io/badge/-thecodexhub-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)-->
 [![Gmail Badge](https://img.shields.io/badge/-julioacustico10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julioacustico10@gmail.com)](mailto:julioacustico10@gmail.com)
 
+![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=vue&show_icons=true)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
 
 <!-- Enlaces a redes sociales -->
 <div align="center" style="margin-top: 20px;">
