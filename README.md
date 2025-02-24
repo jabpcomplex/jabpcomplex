@@ -7,7 +7,7 @@
 
 
 
-# Bienvenido, saludos 👋      
+# Saludos 👋      
 
 <!--[![Instagram Follow](https://img.shields.io/instagram/follow/jabpcomplex?style=social)](https://www.instagram.com/jabpcomplex/)
 [![YouTube Subscribers](https://img.shields.io/youtube/follow/jabpcomplex?style=social)](https://www.youtube.com/@scientiacomplexus5441)
@@ -16,9 +16,19 @@
 
 
 ## ¿Quién soy?
-👋 ¡Hola! Soy jabp, alguien que encuentra fascinante el mundo de los datos y disfruta descubrir cómo pueden transformarse en soluciones creativas para problemas complejos.
+👋 Soy alguien que encuentra fascinante el mundo de los datos y disfruta descubrir cómo pueden transformarse en soluciones creativas para problemas complejos.
 
-🔍 He dedicado parte de mi tiempo a explorar y construir modelos matemáticos que ayudan a entender mejor ciertos fenómenos, especialmente aquellos relacionados con la seguridad y la vida en la ciudad.
+🔍 He dedicado parte de mi tiempo a explorar y construir modelos matemáticos con software libre, que ayudan a entender mejor ciertos fenómenos, especialmente aquellos relacionados con la seguridad y la vida en la ciudad.
+
+Por lo tanto, soy un sistema complejo que estudia la complejidad del universo con software libre.
+
+[![Web|100](./Raster_incidenciacdmx.gif)](https://github.com/jabpcomplex)
+<!--
+<p align="center">
+<img src="https://user-images.githubusercontent.com/13490001/97367217-f8363e00-1865-11eb-8f20-aa565a75df2e.gif">
+</p>
+-->
+
 
 ## 🔥 Streak stats
 
