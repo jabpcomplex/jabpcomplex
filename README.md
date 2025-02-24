@@ -32,6 +32,8 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 </p>
 -->
 
+# Estadísticas
+ 
 <p align="center">
  <a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=github-light&date_format=M%20j%5B%2C%20Y%5D"></a>
  <!-- COMENTARIO
@@ -39,11 +41,17 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
  -->
 </p>
 
-<div align="center">
-  <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
-  </a>
-  <!-- Agrega más proyectos aquí si es necesario -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <a href="https://github.com/jabpcomplex">
+      <img src="https://img.shields.io/badge/Perfil-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
+    </a>
+  </div>
 </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" /></p>
