@@ -38,16 +38,14 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
  <a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=github-light&date_format=M%20j%5B%2C%20Y%5D"></a>
  <!-- COMENTARIO
  <p align="center"> Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> 
- -->
-</p>
-
-<div style="display: flex; justify-content: space-between;">
-  <div>
+    <div>
     <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
     </a>
   </div>
-</div>
+ -->
+</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" /></p>
 
