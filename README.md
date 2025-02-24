@@ -42,9 +42,9 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
   <table>
     <tr>
       <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
-       <a href="https://github.com/jabpcomplex">
-         <img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=github-light&date_format=M%20j%5B%2C%20Y%5D">
-       </a>
+        <a href="https://github.com/jabpcomplex">
+          <img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=vue&date_format=M%20j%5B%2C%20Y%5D">
+        </a>
       </td>
       <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
         <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
@@ -67,7 +67,7 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 
 
 
-
+<div align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
 <p>
 <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -80,6 +80,9 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 -->
 </p>
+
+</div>
+
 
 
 <!-- COMENTRAIO
