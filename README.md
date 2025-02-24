@@ -32,9 +32,6 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 </p>
 -->
 
-
-# 🔥 Streak stats
-
 <p align="center">
  <a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=github-light&date_format=M%20j%5B%2C%20Y%5D"></a>
  <!-- COMENTARIO
@@ -42,12 +39,14 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
  -->
 </p>
 
-# 📊  Proyectos Recientes
-<a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
-</a>
+## 📊 Proyectos Recientes
+<div align="center">
+  <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
+  </a>
+  <!-- Agrega más proyectos aquí si es necesario -->
+</div>
 
-# 👨‍💻 Mis herramientas de trabajo
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" /></p>
 
