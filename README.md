@@ -70,7 +70,7 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 </p>
 
 
-<!--
+<!-- COMENTRAIO
 ## 🧰 Frameworks and libraries
 <p>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -79,20 +79,21 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-ff0044.svg?logo=nestjs&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
--->
+
+
+
 ## 💻 Databases and others
-<!--
 <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCB2B.svg?logo=firebase&logoColor=black"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    -->                                                                                                                       
+
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-
+   -->   
 
 # 💬 Conecta conmigo
 
