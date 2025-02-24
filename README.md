@@ -94,9 +94,33 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 
 <!-- COMENTARIO
 [![Twitter Badge](https://img.shields.io/badge/-thecodexhub-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)-->
-
-
 [![Gmail Badge](https://img.shields.io/badge/-julioacustico10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julioacustico10@gmail.com)](mailto:julioacustico10@gmail.com)
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <a href="https://github.com/jabpcomplex">
+      <img src="https://img.shields.io/badge/Perfil-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
+    </a>
+  </div>
+</div>
+
+<!-- Enlaces a redes sociales -->
+<div align="center" style="margin-top: 20px;">
+  <a href="[https://www.linkedin.com/in/julio-alberto-bautista-9317b2231/]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="[https://www.youtube.com/@scientiacomplexus5441]">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="[https://www.instagram.com/jabpcomplex/]">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
 
 </a>
 </h2>
