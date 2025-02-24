@@ -16,14 +16,15 @@
 
 
 ## ¿Quién soy?
-👋 ¡Hola! Soy [Tu Nombre], alguien que encuentra fascinante el mundo de los datos y disfruta descubrir cómo pueden transformarse en soluciones creativas para problemas complejos.
+👋 ¡Hola! Soy jabp, alguien que encuentra fascinante el mundo de los datos y disfruta descubrir cómo pueden transformarse en soluciones creativas para problemas complejos.
 
 🔍 He dedicado parte de mi tiempo a explorar y construir modelos matemáticos que ayudan a entender mejor ciertos fenómenos, especialmente aquellos relacionados con la seguridad y la vida en la ciudad.
+
 ## 🔥 Streak stats
 
 <p align="center">
  <a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=github-light&date_format=M%20j%5B%2C%20Y%5D"></a>
- <!-- <p align="center"> Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
+ <p align="center"> Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> 
 </p>
 
 ### 👨‍💻 Proyectos 📊 
@@ -79,9 +80,10 @@
 <!--[![Linkedin Badge](https://img.shields.io/badge/-Sandip%20Pramanik-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)](https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)
 [![Twitter Badge](https://img.shields.io/badge/-thecodexhub-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)-->
 [![Gmail Badge](https://img.shields.io/badge/-julioacustico10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julioacustico10@gmail.com)](mailto:julioacustico10@gmail.com)
- </a>
+
+</a>
 </h2>
 <h2 align="center">
-  <p>  . ! </p>
+  <p>  . </p>
   </h2>
   
