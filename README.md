@@ -23,8 +23,12 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 <h2 align="center">
   <p> Incidencia Delictiva en CDMX (2025) </p>
 </h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/Raster_incidenciacdmx.gif">
+</p>
   
-[![Web|100](./Raster_incidenciacdmx.gif)](https://github.com/jabpcomplex)
+
 
 <!-- COMENTARIO
 <p align="center">
