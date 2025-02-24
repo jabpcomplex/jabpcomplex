@@ -35,22 +35,35 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 <img src="https://user-images.githubusercontent.com/13490001/97367217-f8363e00-1865-11eb-8f20-aa565a75df2e.gif">
 </p>
 -->
-
 # Estadísticas
 
-<p align="center">
- <a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=github-light&date_format=M%20j%5B%2C%20Y%5D"></a>
- <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
-      <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
-  </a>
- <!-- COMENTARIO
- <p align="center"> Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> 
- -->
-    <div>
-     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" /></p>
-     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jabpcomplex&theme=vue&show_icons=true" alt="jabpcomplex guthub stats" /></p> 
-  </div>
-</p>
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/jabpcomplex">
+          <img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=github-light&date_format=M%20j%5B%2C%20Y%5D">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=jabpcomplex&theme=vue&show_icons=true" alt="jabpcomplex github stats" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 
 
