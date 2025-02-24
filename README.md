@@ -47,14 +47,14 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
         </a>
       </td>
       <td>
-        <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
-          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
-        </a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact" alt="jabpcomplex" />
+        <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=onedark" />
+        </a>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=jabpcomplex&theme=vue&show_icons=true" alt="jabpcomplex github stats" />
