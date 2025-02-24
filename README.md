@@ -1,4 +1,4 @@
-<!--
+<!-- COMENTARIO
 **jabpcomplex/jabpcomplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
@@ -9,21 +9,24 @@
 
 # Saludos 👋      
 
-<!--[![Instagram Follow](https://img.shields.io/instagram/follow/jabpcomplex?style=social)](https://www.instagram.com/jabpcomplex/)
+<!-- COMENTARIO
+[![Instagram Follow](https://img.shields.io/instagram/follow/jabpcomplex?style=social)](https://www.instagram.com/jabpcomplex/)
 [![YouTube Subscribers](https://img.shields.io/youtube/follow/jabpcomplex?style=social)](https://www.youtube.com/@scientiacomplexus5441)
--->
 [![Twitter Follow](https://img.shields.io/twitter/follow/jabpcomplex?style=social)](https://X.com/jabpcomplex)
+-->
+
 
 
 ## ¿Quién soy?
+
 👋 Soy alguien que encuentra fascinante el mundo de los datos y disfruta descubrir cómo pueden transformarse en soluciones creativas para problemas complejos.
 
-🔍 He dedicado parte de mi tiempo a explorar y construir modelos matemáticos con software libre, que ayudan a entender mejor ciertos fenómenos, especialmente aquellos relacionados con la seguridad y la vida en la ciudad.
+🔍 He dedicado parte de mi tiempo a explorar y construir modelos matemáticos con software libre, que ayudan a entender mejor ciertos fenómenos, especialmente aquellos relacionados con seguridad pública e incidencia delictiva.
 
 Por lo tanto, soy un sistema complejo que estudia la complejidad del universo con software libre.
 
 [![Web|100](./Raster_incidenciacdmx.gif)](https://github.com/jabpcomplex)
-<!--
+<!-- COMENTARIO
 <p align="center">
 <img src="https://user-images.githubusercontent.com/13490001/97367217-f8363e00-1865-11eb-8f20-aa565a75df2e.gif">
 </p>
@@ -34,7 +37,9 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
 
 <p align="center">
  <a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=github-light&date_format=M%20j%5B%2C%20Y%5D"></a>
+ <!-- COMENTARIO
  <p align="center"> Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> 
+ -->
 </p>
 
 ### 👨‍💻 Proyectos 📊 
