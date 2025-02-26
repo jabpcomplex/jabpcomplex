@@ -17,7 +17,7 @@ Soy alguien que encuentra fascinante el mundo de los datos y disfruta descubrir 
 
 He dedicado parte de mi tiempo a explorar y construir modelos matemáticos con software libre, que ayudan a entender mejor ciertos fenómenos, especialmente aquellos relacionados con seguridad pública e incidencia delictiva.
 
-Por lo tanto, soy un sistema complejo que estudia la complejidad del universo con software libre.
+Por lo tanto, soy un sistema complejo que estudia la complejidad de la Ciudad de México (CDMX) con software libre.
 
 
 <h2 align="center">
