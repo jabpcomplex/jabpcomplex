@@ -130,5 +130,4 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
   <a href="[https://www.instagram.com/jabpcomplex/]">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=holamundo&type=horizontal&theme=vue)](https://github.com/jabpcomplex/github-readme-quotes)
 </div>
