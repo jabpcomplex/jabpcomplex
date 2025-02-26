@@ -42,7 +42,7 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
   <table>
     <tr>
       <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jabpcomplex&theme=vue&locale=es" alt="GitHub Streak" /></a>
+        <a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=vue&date_format=M%20j%5B%2C%20Y%5D"></a>
       </td>
       <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
         <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
@@ -130,4 +130,5 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad del universo co
   <a href="[https://www.instagram.com/jabpcomplex/]">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jabpcomplex&theme=vue&locale=es" alt="GitHub Streak" /></a>
 </div>
