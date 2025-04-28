@@ -33,7 +33,7 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la Ciudad de
 </h2>
 
 <p align="center">
-<a src="https://raw.githubusercontent.com/jabpcomplex/qwis2web-demo/refs/heads/main/utopias_iztapalapa.png">
+<img src="https://raw.githubusercontent.com/jabpcomplex/qwis2web-demo/refs/heads/main/utopias_iztapalapa.png">
 </p>
 
 
