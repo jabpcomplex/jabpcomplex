@@ -27,12 +27,19 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la Ciudad de
 <p align="center">
 <img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/Raster_incidenciacdmx.gif">
 </p>
-  
+
+<h2 align="center">
+  <p> Mapas interactivos </p>
+</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/Raster_incidenciacdmx.gif">
+</p>
 
 
 <!-- COMENTARIO
 <p align="center">
-<img src="https://user-images.githubusercontent.com/13490001/97367217-f8363e00-1865-11eb-8f20-aa565a75df2e.gif">
+<a src="https://jabpcomplex.github.io/qwis2web-demo/#13/19.3444/-99.0586">
 </p>
 -->
 # 📊 Estadísticas
