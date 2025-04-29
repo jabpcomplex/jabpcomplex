@@ -19,26 +19,11 @@ He dedicado parte de mi tiempo a explorar y construir modelos matemáticos con s
 
 Por lo tanto, soy un sistema complejo que estudia la complejidad de la Ciudad de México (CDMX) con software libre.
 
-<h2 align="center">
-  <p> Mapas interactivos </p>
-</h2>
 
-
-<h4 align="center">
-  <p> Incidencia Delictiva en CDMX (2025) </p>
-</h4>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/Raster_incidenciacdmx.gif">
-</p>
-
-
-<h4 align="center">
-  <p> Mapas dinámicos </p>
-</h4>
-<p align="center">
-<a href="https://jabpcomplex.github.io/qgis2web-demo/#13/19.3444/-99.0586"><img src="https://raw.githubusercontent.com/jabpcomplex/qwis2web-demo/refs/heads/main/utopias_iztapalapa.png">
-</p>
+| [Incidencia Delictiva en CDMX (2025)](https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/Raster_incidenciacdmx.gif) | [Mapas dinámicos](https://jabpcomplex.github.io/qgis2web-demo/#13/19.3444/-99.0586) |
+|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| ![Incidencia Delictiva CDMX](https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/Raster_incidenciacdmx.gif)         | ![Mapas dinámicos](https://raw.githubusercontent.com/jabpcomplex/qwis2web-demo/refs/heads/main/utopias_iztapalapa.png) |
+|                                                                                                                                           | [Ver mapa interactivo →](https://jabpcomplex.github.io/qgis2web-demo/#13/19.3444/-99.0586) |
 
 
 # 📊 Estadísticas
