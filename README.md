@@ -11,7 +11,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jabpcomplex?style=social)](https://X.com/jabpcomplex)
 -->
 
-# 👋 Saludos
+# 👋 Saludos  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jabpcomplex&label=Profile%20views&color=0e75b6&style=flat" alt="jabpcomplex" /> </p>
+
 
 Soy alguien que encuentra fascinante el mundo de los datos y disfruta descubrir cómo pueden transformarse en soluciones creativas para problemas complejos.
 
@@ -34,8 +36,9 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la Ciudad de
     <tr>
       <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
         <!--<a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=vue&date_format=M%20j%5B%2C%20Y%5D"></a>
-        <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&hide_border=FALSO&short_numbers=FALSO" alt="GitHub Streak" /></a>-->
-        ![Stats](https://github-readme-stats.vercel.app/api?username=jabpcomplex&show_icons=true)
+        ![Stats](https://github-readme-stats.vercel.app/api?username=jabpcomplex&show_icons=true) #no
+        -->
+        <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&hide_border=FALSO&short_numbers=FALSO" alt="GitHub Streak" /></a>
       </td>
       <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
         <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
