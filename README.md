@@ -11,15 +11,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jabpcomplex?style=social)](https://X.com/jabpcomplex)
 -->
 
-# 👋 Saludos  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabpcomplex&label=Profile%20views&color=0e75b6&style=flat" alt="jabpcomplex" /> </p>
 
 
-Soy alguien que encuentra fascinante el mundo de los datos y disfruta descubrir cómo pueden transformarse en soluciones creativas para problemas complejos.
+Soy alguien que encuentra fascinante el mundo de los datos y disfruta descubrir cómo pueden transformarse en soluciones creativas para problemas complejos usando software libre.
 
-He dedicado parte de mi tiempo a explorar y construir modelos matemáticos con software libre, que ayudan a entender mejor ciertos fenómenos, especialmente aquellos relacionados con seguridad pública e incidencia delictiva.
+He dedicado parte de mi tiempo a explorar y construir modelos matemáticos, que ayudan a entender patrones ocultos en los datos, especialmente aquellos relacionados con seguridad pública e incidencia delictiva en la Ciudad de México (CDMX).
 
-Por lo tanto, soy un sistema complejo que estudia la complejidad de la Ciudad de México (CDMX) con software libre.
+Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con software libre.
 
 
 | [Incidencia Delictiva en CDMX (2025)](https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/Raster_incidenciacdmx.gif) | [Mapas dinámicos](https://jabpcomplex.github.io/qgis2web-demo/#13/19.3444/-99.0586) |
