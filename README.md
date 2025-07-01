@@ -14,7 +14,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jabpcomplex?style=social)](https://X.com/jabpcomplex)
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jabpcomplex&label=Profile%20views&color=0e75b6&style=flat" alt="jabpcomplex" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jabpcomplex&label=Profile%20views&color=0e75b6&style=flat" alt="jabpcomplex" /> </p>
 
 
 Soy alguien que encuentra fascinante el mundo de los datos y disfruta descubrir cómo pueden transformarse en soluciones creativas para problemas complejos usando software libre.
@@ -112,11 +112,10 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
 
 
 <div align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
- <img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/icono_complex/conecta_conmigo.png" alt="pixel_dog"  height= "130">
+# 💬 <img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/icono_complex/conecta_conmigo.png" alt="pixel_dog"  height= "130">
 </div>
 
 
-# 💬 Conecta conmigo
 
 🤝 Si te interesa colaborar en proyectos relacionados con análisis de datos, machine learning, o simplemente quieres conectar, ¡no dudes en contactarme! Estoy siempre abierto a nuevas ideas y oportunidades. 👇
 
