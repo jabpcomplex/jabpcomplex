@@ -5,6 +5,10 @@
 
 [![Web|100](./jabpcomplex-ico.png)](https://github.com/jabpcomplex)
 
+<div align="left" style="background-color: white; padding: 10px; border-radius: 10px;">
+ <img src="https://laliteradice.com/wp-content/uploads/2025/01/imagen-2-edited.png" alt="Logo_cdmx"  height= "60" id="logo">
+</div>
+
 <!-- COMENTARIO
 [![Instagram Follow](https://img.shields.io/instagram/follow/jabpcomplex?style=social)](https://www.instagram.com/jabpcomplex/)
 [![YouTube Subscribers](https://img.shields.io/youtube/follow/jabpcomplex?style=social)](https://www.youtube.com/@scientiacomplexus5441)
@@ -105,7 +109,7 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
 
 
 <div align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
- <img src="https://laliteradice.com/wp-content/uploads/2025/01/imagen-2-edited.png" alt="Logo_cdmx"  height= "60" id="logo">
+ <img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/icono_complex/pixel_dog.png" alt="Logo_cdmx"  height= "80" id="logo">
 </div>
 
 
