@@ -3,7 +3,7 @@
 
 -->
 
-<div display: flex; justify-content: space-between; style="background-color: white; padding: 10px; border-radius: 10px; ">
+<div align="center" style="background-color: white; padding: 10px; border-radius: 10px; display: flex;">
  <img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/jabpcomplex-ico.png" alt="logo_complex"  height= "60">
  <img src="https://laliteradice.com/wp-content/uploads/2025/01/imagen-2-edited.png" alt="Logo_cdmx"  height= "45" id="logo">
 </div>
@@ -24,6 +24,10 @@ He dedicado parte de mi tiempo a explorar y construir modelos matemáticos, que 
 
 Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con software libre.
 
+
+<div align="center" style="background-color: white; padding: 10px; border-radius: 10px; ">
+  <img src="https://laliteradice.com/wp-content/uploads/2025/01/imagen-2-edited.png" alt="Logo_cdmx"  height= "45" id="logo">
+</div>
 
 | [Incidencia Delictiva en CDMX (2025)](https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/Raster_incidenciacdmx.gif) | [Mapas dinámicos](https://jabpcomplex.github.io/qgis2web-demo/#13/19.3444/-99.0586) |
 |-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
