@@ -3,9 +3,8 @@
 
 -->
 
-<div align="center" style="background-color: white; padding: 10px; border-radius: 10px; display: flex;">
+<div align="left" style="background-color: white; padding: 10px; border-radius: 10px; display: flex;">
  <img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/jabpcomplex-ico.png" alt="logo_complex"  height= "60">
- <img src="https://laliteradice.com/wp-content/uploads/2025/01/imagen-2-edited.png" alt="Logo_cdmx"  height= "45" id="logo">
 </div>
 
 
@@ -113,7 +112,7 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
 
 
 <div align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
- <img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/icono_complex/pixel_dog.png" alt="pixel_dog"  height= "130">
+ <img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/icono_complex/conecta_conmigo.png" alt="pixel_dog"  height= "130">
 </div>
 
 
