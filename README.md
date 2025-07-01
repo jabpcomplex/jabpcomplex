@@ -3,7 +3,7 @@
 
 -->
 
-<div style="background-color: white; padding: 10px; border-radius: 10px; display: flex; justify-content: space-between;">
+<div display: flex; justify-content: space-between; style="background-color: white; padding: 10px; border-radius: 10px; ">
  <img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/jabpcomplex-ico.png" alt="logo_complex"  height= "60">
  <img src="https://laliteradice.com/wp-content/uploads/2025/01/imagen-2-edited.png" alt="Logo_cdmx"  height= "45" id="logo">
 </div>
