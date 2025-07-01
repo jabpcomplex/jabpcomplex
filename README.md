@@ -103,6 +103,12 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
    -->   
 
+
+<div align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
+ <img src="https://laliteradice.com/wp-content/uploads/2025/01/imagen-2-edited.png" alt="Logo_cdmx"  height= "60" id="logo">
+</div>
+
+
 # 💬 Conecta conmigo
 
 🤝 Si te interesa colaborar en proyectos relacionados con análisis de datos, machine learning, o simplemente quieres conectar, ¡no dudes en contactarme! Estoy siempre abierto a nuevas ideas y oportunidades. 👇
