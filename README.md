@@ -4,7 +4,8 @@
 -->
 
 <div align="left" style="background-color: white; padding: 10px; border-radius: 10px; display: flex;">
- <img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/jabpcomplex-ico.png" alt="logo_complex"  height= "66">
+ <!-- <img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/jabpcomplex-ico.png" alt="logo_complex"  height= "66"> -->
+ <img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/jabpcomplex_automata.gif" alt="logo_complex"  height= "66">
 </div>
 
 
