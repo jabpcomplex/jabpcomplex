@@ -48,8 +48,8 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
         <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&hide_border=FALSO&short_numbers=FALSO" alt="GitHub Streak" /></a>
       </td>
       <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
-        <a href="https://github.com/jabpcomplex/Cluster-Analysis-historic-center-mexico-city">
-          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=Cluster-Analysis-historic-center-mexico-city&theme=vue" />
+        <a href="https://github.com/jabpcomplex/dashbord_CRIMEN_CDMX">
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=dashbord_CRIMEN_CDMX&theme=vue" />
         </a>
       </td>
     </tr>
