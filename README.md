@@ -35,7 +35,7 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
 |                                                                                                                                           | [Ver mapa interactivo →](https://jabpcomplex.github.io/qgis2web-demo/#13/19.3444/-99.0586) |
 
 
-# 📊 Estadísticas
+# 📊 Estadísticas 
 
 <div align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
 
@@ -112,18 +112,19 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
 [![Twitter Badge](https://img.shields.io/badge/-thecodexhub-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)-->
 [![Gmail Badge](https://img.shields.io/badge/-julioacustico10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julioacustico10@gmail.com)](mailto:julioacustico10@gmail.com)
 
-<!-- Enlaces a redes sociales -->
+
+<!-- 📌 Enlaces a redes sociales -->
 <div align="center" style="margin-top: 20px;">
-   <a href="[https://img.shields.io/badge/-julioacustico10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julioacustico10@gmail.com]">
+  <a href="mailto:julioacustico10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-CB4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="[https://www.linkedin.com/in/jabpcomplex/]">
+  <a href="https://www.linkedin.com/in/jabpcomplex/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[https://www.youtube.com/@scientiacomplexus5441]">
+  <a href="https://www.youtube.com/@scientiacomplexus5441">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="[https://www.instagram.com/jabpcomplex/]">
+  <a href="https://www.instagram.com/jabpcomplex/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
