@@ -42,7 +42,10 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
   <table>
     <tr>
       <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&hide_border=FALSO&short_numbers=FALSO" alt="GitHub Streak" /></a>
+        <!--<a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=vue&date_format=M%20j%5B%2C%20Y%5D"></a>
+        ![Stats](https://github-readme-stats.vercel.app/api?username=jabpcomplex&show_icons=true) #no
+        -->
+        <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&hide_border=FALSO&short_numbers=FALSO" alt="GitHub Streak" /></a>
       </td>
       <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
         <a href="https://github.com/jabpcomplex/dashbord_CRIMEN_CDMX">
@@ -52,16 +55,17 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
     </tr>
     <tr>
       <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
-<a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=vue&date_format=M%20j%5B%2C%20Y%5D"></a>
-        ![Stats](https://github-readme-stats.vercel.app/api?username=jabpcomplex&show_icons=true) 
-    
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact&theme=vue" alt="jabpcomplex" />
       </td>
       <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=jabpcomplex&theme=vue&show_icons=true" alt="jabpcomplex github stats" />
       </td>
     </tr>
   </table>
+
 </div>
+
+
 
 ## 💻 Herramientas tecnológicas
 
