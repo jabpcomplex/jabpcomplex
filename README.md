@@ -37,52 +37,33 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
 
 # 📊 Estadísticas 
 
-<!-- Sección de Estadísticas con Fallbacks -->
-<h2 style="text-align: center; margin-top: 40px;">📊 Estadísticas de Actividad</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; max-width: 1000px; margin: 0 auto; padding: 20px; background-color: #f6f8fa; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-  
-  <!-- 1. Streak Stats -->
-  <div style="text-align: center;">
-    <a href="https://git.io/streak-stats">
-      <img 
-        src="https://streak-stats.demolab.com?user=jabpcomplex&theme=vue&border_radius=4&cache_seconds=86400" 
-        alt="GitHub Streak" 
-        onerror="this.onerror=null; this.src='https://placehold.co/400x160/ffffff/007396?text=Streak+Stats+Indisponible';"
-        style="border-radius: 8px; width: 100%; height: auto;"
-      />
-    </a>
-  </div>
+<div align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
 
-  <!-- 2. Top Repositorio -->
-  <div style="text-align: center;">
-    <a href="https://github.com/jabpcomplex/dashbord_CRIMEN_CDMX">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=jabpcomplex&repo=dashbord_CRIMEN_CDMX&theme=vue&hide_border=true&cache_seconds=86400" 
-        onerror="this.onerror=null; this.src='https://placehold.co/400x190/ffffff/007396?text=Dashboard+Indisponible';"
-        style="border-radius: 8px; width: 100%; height: auto;"
-      />
-    </a>
-  </div>
+  <table>
+    <tr>
+      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
+        <!--<a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=vue&date_format=M%20j%5B%2C%20Y%5D"></a>
+        ![Stats](https://github-readme-stats.vercel.app/api?username=jabpcomplex&show_icons=true) #no
+        -->
+        <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&hide_border=FALSO&short_numbers=FALSO" alt="GitHub Streak" /></a>
+      </td>
+      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
+        <a href="https://github.com/jabpcomplex/dashbord_CRIMEN_CDMX">
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=dashbord_CRIMEN_CDMX&theme=vue" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact&theme=vue" alt="jabpcomplex" />
+      </td>
+      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=jabpcomplex&theme=vue&show_icons=true" alt="jabpcomplex github stats" />
+      </td>
+    </tr>
+  </table>
 
-  <!-- 3. Top Lenguajes -->
-  <div style="text-align: center;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true&cache_seconds=86400" 
-      alt="Top Lenguajes"
-      onerror="this.onerror=null; this.src='https://placehold.co/400x160/ffffff/007396?text=Lenguajes+Indisponible';"
-      style="border-radius: 8px; width: 100%; height: auto;"
-    />
-  </div>
-
-  <!-- 4. Stats Generales -->
-  <div style="text-align: center;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=jabpcomplex&show_icons=true&theme=vue&hide_border=true&cache_seconds=86400" 
-      alt="Estadísticas Generales"
-      onerror="this.onerror=null; this.src='https://placehold.co/400x160/ffffff/007396?text=Stats+Indisponible';"
-      style="border-radius: 8px; width: 100%; height: auto;"
-    />
-  </div>
+</div>
 
 ## 💻 Herramientas tecnológicas
 
