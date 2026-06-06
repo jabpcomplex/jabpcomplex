@@ -36,35 +36,52 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
 
 
 # 📊 Estadísticas 
+
 <div align="center" style="background-color: white; padding: 15px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <table>
     <tr>
-      <!-- GitHub Streak Stats -->
-      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
+      <!-- GitHub Streak Stats (Usando instancia Demolab que suele ser más estable) -->
+      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px; min-width: 200px;">
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=jabpcomplex&theme=vue&border_radius=4&cache_seconds=86400" alt="GitHub Streak" />
+          <img 
+            src="https://streak-stats.demolab.com?user=jabpcomplex&theme=vue&border_radius=4&cache_seconds=86400" 
+            alt="GitHub Streak" 
+            onerror="this.onerror=null; this.src='https://placehold.co/300x120/ffffff/007396?text=Streak+Stats+Unavailable';"
+          />
         </a>
       </td>
+      
       <!-- Repositorio Destacado: CDMX Crime Dashboard -->
-      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
+      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px; min-width: 300px;">
         <a href="https://github.com/jabpcomplex/dashbord_CRIMEN_CDMX">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jabpcomplex&repo=dashbord_CRIMEN_CDMX&theme=vue&hide_border=true&cache_seconds=86400" />
+          <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=jabpcomplex&repo=dashbord_CRIMEN_CDMX&theme=vue&hide_border=true&cache_seconds=86400" 
+            onerror="this.onerror=null; this.src='https://placehold.co/300x150/ffffff/007396?text=Repo+Unavailable';"
+          />
         </a>
       </td>
     </tr>
     <tr>
       <!-- Top Languages -->
-      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true&cache_seconds=86400" alt="jabpcomplex top languages" />
+      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px; min-width: 200px;">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true&cache_seconds=86400" 
+          alt="jabpcomplex top languages"
+          onerror="this.onerror=null; this.src='https://placehold.co/300x120/ffffff/007396?text=Languages+Unavailable';"
+        />
       </td>
+      
       <!-- General Stats -->
-      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=jabpcomplex&show_icons=true&theme=vue&hide_border=true&cache_seconds=86400" alt="jabpcomplex github stats" />
+      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px; min-width: 200px;">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=jabpcomplex&show_icons=true&theme=vue&hide_border=true&cache_seconds=86400" 
+          alt="jabpcomplex github stats"
+          onerror="this.onerror=null; this.src='https://placehold.co/300x120/ffffff/007396?text=Stats+Unavailable';"
+        />
       </td>
     </tr>
   </table>
 </div>
-
 ## 💻 Herramientas tecnológicas
 
 <div align="center" style="background-color: white; padding: 10px; border-radius: 10px;"><p>
