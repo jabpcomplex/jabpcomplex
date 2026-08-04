@@ -3,9 +3,24 @@
 
 -->
 
-<div align="left" style="background-color: white; padding: 10px; border-radius: 10px; display: flex;">
- <!-- <img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/jabpcomplex-ico.png" alt="logo_complex"  height= "66"> -->
- <img src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/jabpcomplex_automata_2.gif" alt="logo_complex"  height= "66">
+
+
+<div align="left" style="background-color: white; padding: 10px; border-radius: 10px; display: flex; align-items: center;">
+  <a 
+    href="https://jabpcomplex.github.io/web-site-jabp/" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    title="¡Hola Mundo!"
+  >
+    <img 
+      src="https://raw.githubusercontent.com/jabpcomplex/jabpcomplex/refs/heads/main/jabpcomplex_automata_2.gif" 
+      alt="logo_complex" 
+      height="70"
+      style="transition: opacity 0.2s;"
+      onmouseover="this.style.opacity='0.7'" 
+      onmouseout="this.style.opacity='1'"
+    >
+  </a>
 </div>
 
 
@@ -46,7 +61,7 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jabpcomplex&layout=compact&theme=vue&hide_border=true" width="48%" />
 
 <a href="https://github.com/Ali-hey-0/forecast-fusion">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jabpcomplex&repo=dashbord_CRIMEN_CDMX&theme=vue&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jabpcomplex&repo=ia-examen-unam-2026&theme=vue&hide_border=true" width="48%" height="220" />
 <br>
 
 
