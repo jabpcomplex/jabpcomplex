@@ -36,32 +36,22 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
 
 
 # 📊 Estadísticas 
+<div align="center">
 
-<div align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
+<img src="https://github-stats-extended.vercel.app/api?username=jabpcomplex&show_icons=true&theme=vue&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=jabpcomplex&theme=vue&hide_border=true" width="48%" />
 
-  <table>
-    <tr>
-      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
-        <!--<a href="https://github.com/jabpcomplex"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&theme=vue&date_format=M%20j%5B%2C%20Y%5D"></a>
-        ![Stats](https://github-readme-stats.vercel.app/api?username=jabpcomplex&show_icons=true) #no
-        -->
-        <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jabpcomplex&hide_border=FALSO&short_numbers=FALSO" alt="GitHub Streak" /></a>
-      </td>
-      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
-        <a href="https://github.com/jabpcomplex/dashbord_CRIMEN_CDMX">
-          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jabpcomplex&repo=dashbord_CRIMEN_CDMX&theme=vue" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jabpcomplex&show_icons=true&locale=en&layout=compact&theme=vue" alt="jabpcomplex" />
-      </td>
-      <td align="center" style="background-color: white; padding: 10px; border-radius: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=jabpcomplex&theme=vue&show_icons=true" alt="jabpcomplex github stats" />
-      </td>
-    </tr>
-  </table>
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jabpcomplex&layout=compact&theme=vue&hide_border=true" width="48%" />
+
+<a href="https://github.com/Ali-hey-0/forecast-fusion">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jabpcomplex&repo=dashbord_CRIMEN_CDMX&theme=vue&hide_border=true" width="48%" />
+<br>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jabpcomplex&theme=vue&hide_border=true" width="60%" />
+
 
 </div>
 
