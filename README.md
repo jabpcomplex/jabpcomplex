@@ -51,6 +51,7 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
 
 
 # 📊 Estadísticas 
+
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=jabpcomplex&show_icons=true&theme=vue&hide_border=true" width="48%" />
@@ -60,13 +61,14 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jabpcomplex&layout=compact&theme=vue&hide_border=true" width="48%" />
 
-<a href="https://github.com/Ali-hey-0/forecast-fusion">
+<a href="https://github.com/jabpcomplex/ia-examen-unam-2026">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=jabpcomplex&repo=ia-examen-unam-2026&theme=vue&hide_border=true" width="48%" height="220" />
+
 <br>
 
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jabpcomplex&theme=vue&hide_border=true" width="60%" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jabpcomplex&theme=vue&hide_border=true" width="60%" /> 
 
 </div>
 
