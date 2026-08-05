@@ -66,10 +66,6 @@ Por lo tanto, soy un sistema complejo que estudia la complejidad de la CDMX con 
 
 <br>
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jabpcomplex&theme=vue&hide_border=true" width="60%" /> 
-
 </div>
 
 
